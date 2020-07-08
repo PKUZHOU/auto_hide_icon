@@ -10,3 +10,5 @@ Step 2: put the file to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sta
 Step 3: restart your PC
 
 Now you can use shortcut alt+q to show or hide icons on your desktop.
+
+Reference: https://www.cnblogs.com/shuo1208/p/5694279.html
